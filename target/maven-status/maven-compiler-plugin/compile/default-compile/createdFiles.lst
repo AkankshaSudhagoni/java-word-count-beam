@@ -14,6 +14,7 @@ org\apache\beam\examples\complete\game\UserScore$GameActionInfo.class
 org\apache\beam\examples\WindowedWordCount$DefaultToMinTimestampPlusOneHour.class
 org\apache\beam\examples\WordCount$ExtractWordsFn.class
 org\apache\beam\examples\complete\game\utils\WriteToBigQuery$BuildRowFn.class
+org\apache\beam\examples\MinimalPageRankAkanksha.class
 org\apache\beam\examples\WindowedWordCount$Options.class
 org\apache\beam\examples\complete\game\injector\Injector.class
 org\apache\beam\examples\WordCount.class
